@@ -4,4 +4,4 @@ project(python_ext C)
 set(CMAKE_C_STANDARD 99)
 
 #add_executable(python_ext main.c)
-add_executable(python_ext ExtestWrappers.c)
+add_executable(python_ext clanguage/ExtestWrappers.c)

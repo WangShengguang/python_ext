@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "Python.h"
+#include "python_include/Python.h"
 #include "Extest.c"
 
 static PyObject *Extest_fac(PyObject *self, PyObject *args) {

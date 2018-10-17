@@ -1,5 +1,13 @@
-build/*
-cmake-build-debug/*
-python_include/*
 .idea/*
+
+clanguage/build/*
+clanguage/cmake-build-debug/*
+clanguage/python_include/*
+
+pyx/build/*
+
+
+*.so
+
+
 
